@@ -2,7 +2,6 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm VijayAkash</h1>
-<h3 align="center">A passionate programmer from India.</h3>
 <h3 align="center">✔ I’m currently building in web3 with soldiity</h3>
 <h3 align="center">✔ I’m also learning ReactJS For Dapp development</h3>
 <h3 align="center"> Fun fact <span >I am HALF FILLED</span>😉</h3>
