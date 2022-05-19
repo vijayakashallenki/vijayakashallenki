@@ -1,4 +1,4 @@
-![VIJAYAKASH ALLENKI](https://user-images.githubusercontent.com/83111657/129931328-53c1b629-c88f-473f-9428-3b45c231780b.gif)
+![VIJAYAKASH ALLENKI (1)](https://user-images.githubusercontent.com/83111657/169357523-dece4c1a-3a15-40d5-a93c-280d8d7dc833.gif)
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm VijayAkash</h1>
 <h3 align="center">✔ I’m currently building in web3 with soldiity</h3>
 <h3 align="center">✔ I’m also learning ReactJS For Dapp development</h3>
