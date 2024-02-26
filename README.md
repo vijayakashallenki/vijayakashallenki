@@ -1,5 +1,7 @@
-![VIJAYAKASH ALLENKI (1)](https://github.com/vijayakashallenki/vijayakashallenki/assets/83111657/f9cee4ca-4b7b-44ea-a95b-37614b6da3a3.gif)
+![20240226-1942-19 9823802](https://github.com/vijayakashallenki/vijayakashallenki/assets/83111657/a4376509-db3b-426d-91ab-00b94b779389)
 <h1 align="center">Hi 👋, I'm VijayAkash</h1>
+
+
 
 
 <h3 align="center">✔ I’m currently backend development </h3>
