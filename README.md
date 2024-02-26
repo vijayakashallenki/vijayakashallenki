@@ -1,5 +1,7 @@
-![VIJAYAKASH ALLENKI (1)](https://user-images.githubusercontent.com/83111657/169357523-dece4c1a-3a15-40d5-a93c-280d8d7dc833.gif)
+![VIJAYAKASH ALLENKI (1)](https://github.com/vijayakashallenki/vijayakashallenki/assets/83111657/f9cee4ca-4b7b-44ea-a95b-37614b6da3a3.gif)
 <h1 align="center">Hi 👋, I'm VijayAkash</h1>
+
+
 <h3 align="center">✔ I’m currently backend development </h3>
 <h3 align="center">✔ I’m also learning ReactJS For Dapp development</h3>
 <h3 align="center"> Fun fact <span >I am HALF FILLED</span>😉</h3>
